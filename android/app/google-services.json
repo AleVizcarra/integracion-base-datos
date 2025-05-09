@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "346321252307",
+    "project_id": "catalogo-peliculas-42ef5",
+    "storage_bucket": "catalogo-peliculas-42ef5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346321252307:android:4690a132b0c532f4814926",
+        "android_client_info": {
+          "package_name": "com.example.integracion_base_de_datos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvuzCkjJ724cIB4AVUltmb18VGFrKsRS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346321252307:android:109302f24a82974b814926",
+        "android_client_info": {
+          "package_name": "com.example.peticiones_http"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvuzCkjJ724cIB4AVUltmb18VGFrKsRS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
